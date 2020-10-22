@@ -40,7 +40,7 @@
 <br />
 
 ---
-[linkedin]: https://www.facebook.com/get.aromal
+[facebook]: https://www.facebook.com/get.aromal
 [twitter]: https://twitter.com/aromalhere
 [instagram]: https://instagram.com/aromalhere
 [linkedin]: https://linkedin.com/in/aromalsanthosh
