@@ -44,3 +44,7 @@
 [twitter]: https://twitter.com/aromalhere
 [instagram]: https://instagram.com/aromalhere
 [linkedin]: https://linkedin.com/in/aromalsanthosh
+
+<br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aromalsanthosh&show_icons=true&theme=vue)](https://github.com/psathyanarayan/github-readme-stats)
+
