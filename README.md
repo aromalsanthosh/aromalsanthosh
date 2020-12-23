@@ -48,3 +48,8 @@
 <br>
 
 [![Aromal's github stats](https://github-readme-stats.vercel.app/api?username=aromalsanthosh)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psathyanarayan&langs_count=10&layout=compact&hide=ASP.NET,Shaderlab&exclude_repo=unity&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
