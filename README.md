@@ -50,6 +50,7 @@
 <br>
 
 [![Aromal's github stats](https://github-readme-stats.vercel.app/api?username=aromalsanthosh)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://komarev.com/ghpvc/?username=aromalsanthosh&style=flat-square" />
 
 
 <br>
