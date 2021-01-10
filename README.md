@@ -76,6 +76,7 @@
 
 <br />
 
+
 <div>
         <h2><img width="30" align="center"
                 src="https://emojis.slackmojis.com/emojis/images/1471045834/769/bike.gif?1471045834" /> &nbsp;My Stats
@@ -83,19 +84,16 @@
     </div>
     <br />
     <div>
-        <details>
-            <summary>
-                My Github Stats
-            </summary>
-            <br />
             <p align="center">
                 <img height="160" alt="Aromal's Github Stats"
                     src="https://github-readme-stats.vercel.app/api?username=aromalsanthosh&show_icons=true&hide_border=true&theme=dark&count_private=true" />
                 <img alt="Aromal's Github Stats" height="160"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromalsanthosh&hide=assembly&layout=compact&theme=dark" />
-            </p>
-        </details>
+            </p>  
     </div>
 
 </div>
+
+
+
 
