@@ -1,12 +1,29 @@
-### Hi there I'm Aromal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
+<div align="center">
+    <img alt="Developer Pic"
+        src="https://user-images.githubusercontent.com/49222186/93325106-6aae0a00-f834-11ea-979f-27f48f1e9433.gif" width="350"/>
+    <h1>Hai, I am <a href="https://aromal.engineer" target="_blank">Aromal</a> <img
+            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+    <p>
+        <a href="https://twitter.com/aromalhere" target="_blank"><img alt="Twitter"
+                src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/aromalsanthosh" target="_blank"><img alt="LinkedIn"
+                src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:aromalponmana@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=dribbble&logoColor=white"></a>
+        <a href="https://t.me/aromalhere"><img alt="Telegram"
+                src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
 
+<a href="https://t.me/aromalhere"><img alt="Telegram"
+                src="https://img.shields.io/twitter/follow/aromalhere?label=Twitter&style=social"></a>
+    </p><br />
+    <p>🙏🏻 Welcome to my Github profile!<br />
+        I am a <b>Computer Science</b> Student 🚀 from <b>Kerala, India</b> <img
+            src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
+        I like to learn new technologies 😍 </p>
 
-- 🔭 I’m currently Exploring on new technologies ...
-- 🌱 I’m currently learning  Programming...
-- 👯 I’m looking to collaborate on Open source projects...
-- 💬 Ask me about Linux,Inscript & Computer Hardware...
-- ⚡ Fun fact: Happy to help...
+</div>
+
 
 
 ### Connect with me:
