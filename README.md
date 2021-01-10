@@ -14,8 +14,6 @@
         <a href="https://t.me/aromalhere"><img alt="Telegram"
                 src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-<a href="https://t.me/aromalhere"><img alt="Telegram"
-                src="https://img.shields.io/twitter/follow/aromalhere?label=Twitter&style=social"></a>
     </p><br />
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>Computer Science</b> Student 🚀 from <b>Kerala, India</b> <img
