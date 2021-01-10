@@ -1,4 +1,3 @@
-
 <div align="center">
     <img alt="Developer Pic"
         src="https://user-images.githubusercontent.com/49222186/93325106-6aae0a00-f834-11ea-979f-27f48f1e9433.gif" width="350"/>
@@ -14,13 +13,15 @@
         <a href="https://t.me/aromalhere"><img alt="Telegram"
                 src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-    </p><br />
+ </p><br />
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>Computer Science</b> Student 🚀 from <b>Kerala, India</b> <img
             src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
         I like to learn new technologies 😍 </p>
 
 </div>
+
+
 
 
 
