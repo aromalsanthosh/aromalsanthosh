@@ -21,16 +21,36 @@
 
 </div>
 
+<div>
+    <div>
+        <h2><img align="center"
+                src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
+            What I'm up to</h2>
+        <ul>
+            <li> 👨🏻‍💻 I'm currently working on HTML & CSS ✍🏻</li>
+            <li> 💬 Ask me about Linux <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1593980850/9611/linux.png?1593980850"
+                    width="16" />,Android <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1493026598/2124/android.png?1493026598"
+                    width="16" /></li>
+            <li> 🎓 I'm currently learning Java <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png?1450733280"
+                    width="16" /></li>
+            <li>📫 How to reach me: <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1471045859/870/mail.gif?1471045859" width="17" />
+                <a href="mailto:aromalsanthosh@protonmail.com" target="_blank">aromalsanthosh@protonmail.com</a></li>
+            <li>👀 Take a look at <a href="https://aromal.engineer/" target="_blank">My Portfolio</a></li>
+
 
 
 
 
 ### Connect with me:
 
-[<img align="left" alt="aromalsanthosh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="aromalsanthosh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="aromalsanthosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="aromalsanthosh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="aromalsanthosh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/facebook.svg" />][facebook]
+[<img align="center" alt="aromalsanthosh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="aromalsanthosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="aromalsanthosh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
