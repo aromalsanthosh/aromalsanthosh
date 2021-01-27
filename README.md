@@ -26,6 +26,7 @@
 
 <div>
     <div>
+        <br>
         <h2><img align="center"
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
