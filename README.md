@@ -86,6 +86,11 @@
                 <img alt="Aromal's Github Stats" height="160"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromalsanthosh&hide=assembly&layout=compact&theme=dark" />
             </p>  
+        <p align="center">
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aromalsanthosh"/>
+  </a>
+</p>
     </div>
 
 </div>
