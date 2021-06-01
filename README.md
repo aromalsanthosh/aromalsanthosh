@@ -24,7 +24,7 @@
 </div>
 
 
-<div>
+<div align="left">
     <div>
         <br>
         <h2><img align="center"
@@ -45,7 +45,7 @@
                 <a href="mailto:aromalsanthosh@protonmail.com" target="_blank">aromalsanthosh@protonmail.com</a></li>
             <li>👀 Take a look at <a href="https://aromal.engineer/" target="_blank">My Peresonal Website</a></li>
 
-<div>
+<div align="left">
         <h2><img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" align="center"
                 width="40" /> Languages and Tools</h2>
         <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -69,7 +69,7 @@
 <br />
 
 
-<div>
+<div align="left">
         <h2><img width="30" align="center"
                 src="https://emojis.slackmojis.com/emojis/images/1471045834/769/bike.gif?1471045834" /> &nbsp;My Stats
         </h2>
