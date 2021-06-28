@@ -4,8 +4,8 @@
     <img alt="Developer Pic"
         src="home_anime.f372ef86.gif" width="540"/>
     <br/><br/>
-    <p>🙏🏻 Welcome to my Github profile!<br />
-        I am a <b>Web developer</b> 🚀 from <b>Kerala, India</b> <img
+    <p>🙏🏻 Welcome to my Github profile !<br />
+        I am a <b>Web developer</b> 🌐 from <b>Kerala, India</b> <img
             src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
         I love building side projects 😍, learning new technologies. </p>
     <div>
