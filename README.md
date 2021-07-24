@@ -43,7 +43,7 @@
             <li>📫 How to reach me : <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1622508200/42507/email_open.png?1622508200" width="20" />
                 <a href="mailto:aromalsanthosh@protonmail.com" target="_blank">aromalsanthosh@protonmail.com</a></li>
-            <li>👀 Take a look at <a href="https://aromalsanhosh.tech/" target="_blank">My Portfolio</a></li>
+            <li>👀 Take a look at <a href="https://aromalsanthosh.tech/" target="_blank">My Portfolio</a></li>
         </ul>
     </div>
 
