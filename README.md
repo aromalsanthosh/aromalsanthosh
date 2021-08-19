@@ -31,13 +31,13 @@
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-            <li> 👨🏻‍💻 I'm currently working on Front End Web Development 🌐</li>
+            <li> 👨🏻‍💻 I'm currently working on Full Stack Web Development 🌐</li>
             <li> 💬 Ask me about Linux <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1593980850/9611/linux.png?1593980850"
                     width="16" />, Android <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1493026598/2124/android.png?1493026598"
                     width="16" /></li>
-            <li> 🎓 I'm currently learning React <img align="center"
+            <li> 🎓 I'm currently exploring MERN stack <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
                     width="16" /></li>
             <li>📫 How to reach me : <img align="center"
