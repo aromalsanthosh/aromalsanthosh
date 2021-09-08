@@ -97,10 +97,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aromalsanthosh"/>
   </a>
 </p>
-        [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aromalsanthosh&bg_color=000000&color=1cfdee&line=11ff00&point=08e7cd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     </div>
     
-    <p align="center">
   <a href="#">
     <img src="https://activity-graph.herokuapp.com/graph?username=aromalsanthosh&bg_color=000000&color=1cfdee&line=11ff00&point=08e7cd&area=true&hide_border=true"/>
   </a>
