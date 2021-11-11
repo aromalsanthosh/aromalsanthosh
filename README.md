@@ -41,8 +41,8 @@
                     width="16" />, Android <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1493026598/2124/android.png?1493026598"
                     width="16" /></li>
-            <li> 🎓 I'm currently exploring MERN stack <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
+            <li> 🎓 I'm currently exploring Flutter <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362"
                     width="16" /></li>
             <li>📫 How to reach me : <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1622508200/42507/email_open.png?1622508200" width="20" />
