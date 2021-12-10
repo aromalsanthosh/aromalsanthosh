@@ -2,7 +2,7 @@
     <h1>Hai, I am <a href="https://aromalsanthosh.tech" target="_blank">Aromal</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <img alt="Developer Pic"
-        src="home_anime.f372ef86.gif" width="540"/>
+        src="programmer.svg" width="540"/>
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile !<br />
         I am a <b>Web developer</b> 🌐 from <b>Kerala, India</b> 🇮🇳
