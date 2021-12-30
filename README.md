@@ -103,8 +103,9 @@
 </p>
 
 <br/>
+    <h2 align="left"> 💻 My workspace:</h2><br/>
     <p align='center'>
-  💻 My workspace<br/><br/>
+  <br/>
         <img src="https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
  
