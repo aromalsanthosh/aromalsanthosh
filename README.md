@@ -23,7 +23,9 @@
         <a href="https://wa.me/917902293783/" target="_blank"><img alt="Whatsapp"
                 src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
         <a href="https://t.me/aromalhere"><img alt="Telegram"
-                src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a><br>   
+                src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a><br>
+        <a href="https://t.me/aromalhere"><img alt="Telegram"
+                src="https://komarev.com/ghpvc/?username=aromalasanthosh"></a><br> 
     </div>
 </div>
 
