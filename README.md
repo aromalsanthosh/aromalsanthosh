@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hai, I am <a href="https://aromalsanthosh.tech" target="_blank">Aromal</a> <img
+    <h1>Hai, I am <a href="https://aromalsanthosh.com" target="_blank">Aromal</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <img alt="Developer Pic"
         src="programmer.svg" width="540"/>
@@ -46,8 +46,8 @@
                     width="16" /></li>
             <li>📫 How to reach me : <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1622508200/42507/email_open.png?1622508200" width="20" />
-                <a href="mailto:aromalsanthosh@protonmail.com" target="_blank">aromalsanthosh@protonmail.com</a></li>
-            <li>👀 Take a look at <a href="https://aromalsanthosh.tech/" target="_blank">My Portfolio</a></li>
+                <a href="mailto:ththosh@protonmail.com" target="_blank">aromalsanthosh@protonmail.com</a></li>
+            <li>👀 Take a look at <a href="https://aromalsanthosh.com/" target="_blank">My Portfolio</a></li>
         </ul>
     </div>
 
