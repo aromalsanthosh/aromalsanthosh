@@ -145,7 +145,7 @@
     </div>
     
   <a href="#">
-    <img src="https://activity-graph.herokuapp.com/graph?username=aromalsanthosh&bg_color=000000&color=1cfdee&line=11ff00&point=08e7cd&area=true&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aromalsanthosh&bg_color=000000&color=44ff00&line=09fb66&point=fbff00&area=true&hide_border=true"/>
   </a>
 </p>
 
