@@ -6,7 +6,7 @@
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile !<br />
         I am a <b>Web developer</b> 🌐 from <b>Kerala, India</b> 🇮🇳
-        I love building side projects 😍, learning new technologies. </p>
+        I love building softwares 😍, learning new technologies. </p>
     <div>
         <a href="https://twitter.com/aromalhere" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -46,7 +46,7 @@
                     width="16" /></li>
             <li>📫 How to reach me : <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1622508200/42507/email_open.png?1622508200" width="20" />
-                <a href="mailto:ththosh@protonmail.com" target="_blank">aromalsanthosh@protonmail.com</a></li>
+                <a href="mailto:aromalsanthosh@protonmail.com" target="_blank">aromalsanthosh@protonmail.com</a></li>
             <li>👀 Take a look at <a href="https://aromalsanthosh.com/" target="_blank">My Portfolio</a></li>
         </ul>
     </div>
