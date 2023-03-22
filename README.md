@@ -101,7 +101,7 @@
 <p align="center">
   <a href="https://www.hackerrank.com/aromalsanthosh"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   <a href="https://www.hackerearth.com/@aromalsanthosh"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
-  <a href="https://leetcode.com/aromalasanthosh/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+  <a href="https://leetcode.com/aromalsanthosh/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
   <a href="https://www.codechef.com/users/aromalsanthosh"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
   <a href="https://www.codewars.com/users/aromalsanthosh"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white"><a/>
   
