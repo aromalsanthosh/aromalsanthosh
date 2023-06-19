@@ -18,8 +18,6 @@
                 src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
         <a href="https://www.dribbble.com/aromalsanthosh"><img alt="Dribbble"
                 src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-        <a href="mailto:aromalsanthosh@protonmail.com" target="_blank"><img alt="Protonmail"
-                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
         <a href="https://wa.me/917902293783/" target="_blank"><img alt="Whatsapp"
                 src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
         <a href="https://t.me/aromalhere"><img alt="Telegram"
