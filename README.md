@@ -130,20 +130,18 @@
     <div>
             <p align="center">
                 <img height="160" alt="Aromal's Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=aromalsanthosh&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+                    src="https://github-readme-stats.vercel.app/api?username=aromalsanthosh&theme=nightowl&show_icons=true&hide_border=false&count_private=true" />
                 <img alt="Aromal's Github Stats" height="160"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromalsanthosh&hide=assembly&layout=compact&theme=dark" />
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromalsanthosh&theme=nightowl&show_icons=true&hide_border=false&layout=compact" />
             </p>  
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aromalsanthosh"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aromalsanthosh&theme=nightowl&hide_border=false"/>
   </a>
 </p>
     </div>
     
-  <a href="#">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aromalsanthosh&bg_color=000000&color=44ff00&line=09fb66&point=fbff00&area=true&hide_border=true"/>
-  </a>
+
 </p>
 
 
