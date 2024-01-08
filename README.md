@@ -36,14 +36,14 @@
             <li> 👨🏻‍💻 I'm currently working on Full Stack Web Development 🌐</li>
             <li> 💬 Ask me about Linux <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1593980850/9611/linux.png?1593980850"
-                    width="16" />, Android <img align="center"
+                    width="16" />, Backend Development <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1493026598/2124/android.png?1493026598"
                     width="16" /></li>
             <li> 🎓 I'm currently learning Golang <img align="center"
                     src="[https://emojis.slackmojis.com/emojis/images/1643514044/31/ruby.png?1643514044](https://emojis.slackmojis.com/emojis/images/1643514073/291/golang.png?1643514073)" width="16" /></li>
             <li>📫 How to reach me : <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1622508200/42507/email_open.png?1622508200" width="20" />
-                <a href="mailto:aromalsanthosh@protonmail.com" target="_blank">aromalsanthosh@protonmail.com</a></li>
+                <a href="mailto:aromal.cec@gmail.com" target="_blank">aromal.cec@gmail.com</a></li>
             <li>👀 Take a look at <a href="https://aromalsanthosh.com/" target="_blank">My Portfolio</a></li>
         </ul>
     </div>
