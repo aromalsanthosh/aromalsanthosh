@@ -39,7 +39,7 @@
                     width="16" />, Backend Development <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1493026598/2124/android.png?1493026598"
                     width="16" /></li>
-            <li> 🎓 I'm currently learning Golang <img align="center"
+            <li> 🎓 I'm currently learning Golang & Rust 🦀<img align="center"
                     src="[https://emojis.slackmojis.com/emojis/images/1643514044/31/ruby.png?1643514044](https://emojis.slackmojis.com/emojis/images/1643514073/291/golang.png?1643514073)" width="16" /></li>
             <li>📫 How to reach me : <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1622508200/42507/email_open.png?1622508200" width="20" />
